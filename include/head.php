@@ -15,7 +15,6 @@ if(!isset($_SESSION['userId']))
   <?php require "assets/autoloader.php" ?>
   <link rel="shortcut icon" sizes="16x16" href="https://axcora.com/img/angular.png">
 <link rel="shortcut icon" sizes="32x32" href="https://axcora.com/img/angular.png">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <style type="text/css">
   <?php include 'css/spectre.css'; ?>
   <?php include 'css/spectre-icons.css'; ?>
@@ -78,5 +77,6 @@ else{
 
  ?> 
   </style>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
