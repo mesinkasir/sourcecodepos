@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Axcora Spectre apps
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/sourcecodepos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Open source code free download gratis point of sale apps.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![free download source code pos](https://1.bp.blogspot.com/-qD0C7BfujUE/YJwevBulxLI/AAAAAAAAN6s/TsTtcEr6scY56FRfwVeiOQOvHwG7GGS5ACLcBGAsYHQ/s1920/1.jpg)
 
-### Markdown
+Modern UI blast and fast with axcora spectre pos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![free download source code pos](https://1.bp.blogspot.com/-ED4grKUPAEk/YJwevHl6xiI/AAAAAAAAN6w/8w90RzEgLAcarZl3UItjWzex29vaMIutgCLcBGAsYHQ/s1920/2.jpg)
 
-```markdown
-Syntax highlighted code block
+Multi device support
 
-# Header 1
-## Header 2
-### Header 3
+![free download source code pos](https://1.bp.blogspot.com/--wSuVTVJURA/YJwe6GV5X8I/AAAAAAAAN7Q/GTFrj9zK_lIS280BBDGtgPzTDgK93ZxFACLcBGAsYHQ/s537/login.png)
 
-- Bulleted
-- List
+Login page area
 
-1. Numbered
-2. List
+![free download source code pos](https://1.bp.blogspot.com/-d91dGyejlig/YJwe2AFRFpI/AAAAAAAAN68/O-wsdNe3i1IrWZLm4FGPYN8KFOXwFYZsQCLcBGAsYHQ/s693/Screenshot_2021-05-12%2BAxcora%2BSpectre%2BApps.png)
 
-**Bold** and _Italic_ and `Code` text
+Mobile POS point of sale cashier
 
-[Link](url) and ![Image](src)
-```
+![free download source code pos](https://1.bp.blogspot.com/-sAITylmiVgY/YJwe5vkJXZI/AAAAAAAAN7M/W0B7ss16rK0Wn3lE0w3p9nBZ5Ft7E0dLwCLcBGAsYHQ/s1356/Screenshot_2021-05-12%2BMedical%2BStore%25282%2529.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Desktop Point of sale apps
 
-### Jekyll Themes
+![free download source code pos](https://1.bp.blogspot.com/-eH2zO9XduD0/YJwe47TPnPI/AAAAAAAAN7E/X4JC0p7KhhM4v_GDY6aBArKJNgx7_xwcwCLcBGAsYHQ/s1366/Screenshot_2021-05-12%2BMedical%2BStore%25284%2529.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/sourcecodepos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Cashier Transaction & Customer Paymet
 
-### Support or Contact
+![free download source code pos](https://1.bp.blogspot.com/-nijs_onNcmA/YJwe5C8i-YI/AAAAAAAAN7I/SL0gYWrhKxoTBMXSGx5Gm_JR30PeK1cRQCLcBGAsYHQ/s1349/Screenshot_2021-05-12%2BMedical%2BStore%25285%2529.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Print out receipt or invoice mode
+
+![free download source code pos](https://1.bp.blogspot.com/-_Iyp_LdM400/YJwe6I8iF7I/AAAAAAAAN7U/_bSjZbcWLnQkRL93jgIB2WyGTdcQ9eQXQCLcBGAsYHQ/s1366/Screenshot_2021-05-12%2BMedical%2BStore%25286%2529.png)
+
+All report details.
+
+-------------------------------------------------------
+
+Free download gratis !!
+
+How to install and work with this apps ?? read documentation here :
+[https://axcora.com/source-code-pos-free-download-gratis.html](https://axcora.com/source-code-pos-free-download-gratis.html)
