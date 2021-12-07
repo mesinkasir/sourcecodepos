@@ -2,6 +2,10 @@
 
 Open source code free download gratis point of sale apps.
 
+How to install : [https://axcora.my.id/spectrepos/](https://axcora.my.id/spectrepos/)
+
+Documentation : [https://axcora.my.id/spectrepos/doc.php](https://axcora.my.id/spectrepos/doc.php)
+
 ![free download source code pos](https://1.bp.blogspot.com/-qD0C7BfujUE/YJwevBulxLI/AAAAAAAAN6s/TsTtcEr6scY56FRfwVeiOQOvHwG7GGS5ACLcBGAsYHQ/s1920/1.jpg)
 
 Modern UI blast and fast with axcora spectre pos
@@ -33,6 +37,14 @@ Print out receipt or invoice mode
 ![free download source code pos](https://1.bp.blogspot.com/-_Iyp_LdM400/YJwe6I8iF7I/AAAAAAAAN7U/_bSjZbcWLnQkRL93jgIB2WyGTdcQ9eQXQCLcBGAsYHQ/s1366/Screenshot_2021-05-12%2BMedical%2BStore%25286%2529.png)
 
 All report details.
+
+--------------------------------------------------------
+
+
+How to install : [https://axcora.my.id/spectrepos/](https://axcora.my.id/spectrepos/)
+
+Documentation : [https://axcora.my.id/spectrepos/doc.php](https://axcora.my.id/spectrepos/doc.php)
+
 
 -------------------------------------------------------
 
